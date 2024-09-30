@@ -1,0 +1,12 @@
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.deps.json
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.dll
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.pdb
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.AssemblyInfoInputs.cache
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.AssemblyInfo.cs
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.dll
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\refint\ServicioDLL.dll
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.pdb
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[practira04]\ServicioDLL\obj\Debug\net8.0\ref\ServicioDLL.dll
